@@ -1,0 +1,2 @@
+# Linux-Command-Line-Shell
+A simple implementation of a personalized Linux command line shell. The program can be run from the terminal and users can enter commands and specify whether they want their commands to be run in the background or foreground. The implementation in done in the C Programming Language, while making use of various system calls, and operating system concepts of child and parent process creation.
